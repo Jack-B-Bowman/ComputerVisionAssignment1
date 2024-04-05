@@ -1,0 +1,19 @@
+train: C:\Users\Jack Bowman\Documents\Programs\PytScripts\CV\YOLO_video\dataset\Dataset military equipment\images_train
+val: C:\Users\Jack Bowman\Documents\Programs\PytScripts\CV\YOLO_video\dataset\Dataset military equipment\images_val
+
+nc: 11
+names:
+  - Tank
+  - Infantry fighting vehicle
+  - Armored personnel carrier
+  - Armoured Vehicle
+  - Assault helicopter
+  - Transport helicopter
+  - Assault airplane
+  - Transport airplane
+  - Anti-aircraft vehicle
+  - Towed artillery
+  - Self-propelled artillery
+
+width: 640  
+height: 640  
